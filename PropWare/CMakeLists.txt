@@ -33,6 +33,7 @@ set(PROPWARE_SOURCES
     ${CMAKE_CURRENT_LIST_DIR}/sensor/analog/mcp3xxx.h
     ${CMAKE_CURRENT_LIST_DIR}/sensor/analog/pcf8591.h
     ${CMAKE_CURRENT_LIST_DIR}/sensor/distance/ping.h
+    ${CMAKE_CURRENT_LIST_DIR}/sensor/fusion/bno055.h
     ${CMAKE_CURRENT_LIST_DIR}/sensor/gyroscope/l3g.h
     ${CMAKE_CURRENT_LIST_DIR}/sensor/temperature/max6675.h
     ${CMAKE_CURRENT_LIST_DIR}/serial/can/mcp2515.h
